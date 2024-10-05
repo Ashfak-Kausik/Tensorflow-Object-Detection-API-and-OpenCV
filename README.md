@@ -27,7 +27,7 @@ The project focuses on real-time detection of defective products in a production
 **Step-by-Step Guide:**
 **Step 1: Evaluating and selecting models**
 - CNN, R-CNN, Faster R-CNN, and SSD were evaluated based on speed, accuracy, precision, and their ability to perform real-time object detection on the production line. The SSD-MobileNet-v2 model was selected for its balance between detection speed and accuracy, making it suitable for real-time defect detection in a manufacturing environment.
-**Step 2: Setup the Environment (Dependency Installations and others)**
+\n**Step 2: Setup the Environment (Dependency Installations and others)**
 - Install the necessary libraries and dependencies for the project.
 - Python 3.7 or higher
 - TensorFlow 2.x, OpenCV, LabelImg, and other libraries such as NumPy, Matplotlib, and Jupyter Notebook.
